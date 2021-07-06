@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ornella Barca! aka @barkovskaya22 
-- 👀 I’m interested in thousands of things but I could say technology, video games, anime, languages, cats and coffee are what powers me 😺☕
+- 👀 I’m interested about thousands of things but I could say technology, video games, anime, languages, cats and coffee are what powers me 😺☕
 - 🌱 I’m currently learning Javascript, advanced CSS and animations, and soon..React! 👩‍💻
 - 📫 How to reach me 
 <a href="http://www.linkedin.com/in/ornellab"> 
