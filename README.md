@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <h1 align="center">I'm Ornella, nice to meet you! 👋</h1>
-<h3 align="center">Front-end dev student and digital UI/UX designer</h3>
+<h3 align="center">Front-end dev and digital UI/UX designer</h3>
 
 - 🌱 I’m currently learning **learning Javascript, advanced CSS and animations, and soon..React! 👩‍💻**
 - ⚡ Fun fact **I’m interested about thousands of things but I could say technology, video games, anime, languages, cats and coffee are what powers me 😺☕**
