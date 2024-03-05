@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 <a href="https://linkedin.com/in/ornellab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ornellab" height="30" width="40" /></a>
 <a href="https://dribbble.com/ornellab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="ornellab" height="30" width="40" /></a>
 <a href="https://www.behance.net/ornellab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="ornellab" height="30" width="40" /></a>
-<a href="https://ornellab-portfolio.webflow.io" target="blank"><img align="center" src="[https://imgur.com/a/lj6lKby](https://i.imgur.com/gAC7odi_d.webp?maxwidth=760&fidelity=grand)" alt="ornellab" height="30" width="40" /></a>
+<a href="https://ornellab-portfolio.webflow.io" target="blank"><img align="center" src="https://i.imgur.com/gAC7odi_d.webp?maxwidth=760&fidelity=grand)" alt="ornellab" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
